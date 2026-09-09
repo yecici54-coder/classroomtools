@@ -1,0 +1,28 @@
+import { Student } from '../types';
+
+export const DEFAULT_SAMPLE_STUDENTS: Student[] = [
+  { id: 's1', number: 1, name: '陳柏翰' },
+  { id: 's2', number: 2, name: '林怡萱' },
+  { id: 's3', number: 3, name: '張家豪' },
+  { id: 's4', number: 4, name: '黃品睿' },
+  { id: 's5', number: 5, name: '李佳穎' },
+  { id: 's6', number: 6, name: '吳冠宇' },
+  { id: 's7', number: 7, name: '劉子涵' },
+  { id: 's8', number: 8, name: '楊承恩' },
+  { id: 's9', number: 9, name: '蔡羽彤' },
+  { id: 's10', number: 10, name: '許庭瑋' },
+  { id: 's11', number: 11, name: '鄭宇翔' },
+  { id: 's12', number: 12, name: '謝宜蓁' },
+  { id: 's13', number: 13, name: '郭俊廷' },
+  { id: 's14', number: 14, name: '洪詩涵' },
+  { id: 's15', number: 15, name: '曾子齊' },
+  { id: 's16', number: 16, name: '邱筱晴' },
+  { id: 's17', number: 17, name: '廖偉傑' },
+  { id: 's18', number: 18, name: '賴恩綺' },
+  { id: 's19', number: 19, name: '周宏恩' },
+  { id: 's20', number: 20, name: '徐若瑄' },
+  { id: 's21', number: 21, name: '孫宇晨' },
+  { id: 's22', number: 22, name: '葉芷晴' },
+  { id: 's23', number: 23, name: '蘇靖翔' },
+  { id: 's24', number: 24, name: '潘宥廷' },
+];
